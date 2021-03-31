@@ -65,7 +65,7 @@ labelImg==1.8.3
 librosa==0.6.2
 llvmlite==0.24.0
 lmdb==0.87
-lxml==4.4.1
+lxml==4.6.3
 map-boxes==1.0.5
 mapcalc==0.1.1
 Markdown==2.6.11
