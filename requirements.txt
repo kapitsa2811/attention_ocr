@@ -114,7 +114,7 @@ pyzmq==17.1.2
 qtconsole==4.4.3
 requests==2.22.0
 resampy==0.2.1
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.2.1
 scikit-fmm==0.0.9
 scikit-image==0.15.0
